@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Halo Semua!
+Kenalkan nama saya Zharfan hobi saya adalah membaca manga
